@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome Aqui]!
+# 👋 Olá, eu sou a Thais!
 
 🎓 Estudante, pesquisador e entusiasta de tecnologia  
 💡 Apaixonado por resolver problemas com código  
@@ -31,17 +31,16 @@ Sou **bolsista PIBITI**, trabalhando em um projeto que combina **aprendizado de 
 
 ## 🧪 Projetos e Pesquisas
 
-- 🔬 **Projeto PIBITI**: Aplicação de aprendizado de máquina para [tema do projeto]  
-- 📸 Classificação de imagens com CNNs no contexto [aplicação]  
+- 🔬 **Projeto PIBITI**: Aplicação de aprendizado de máquina para LEVANTAMENTO DE ALGORITMOS DE ESTIMATIVA DE POSE POR CAPTURA DE VÍDEO DE CRIANÇAS E ADOLESCENTES EM AMBIENTE DE PRÁTICAS MOTORAS CONTROLADAS. 
 - 🧩 Desenvolvimento de soluções em Python para problemas de otimização e análise de dados
+- 🎮**Projeto de Jogos**: Jogos digitais para o desenvolvimento de habilidades motoras em crianças: um mapeamento sistemático
 
 ---
 
 ## 📫 Como me encontrar
 
-- GitHub: [seu_username](https://github.com/seu_username)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-perfil)
-- E-mail: seu.email@exemplo.com
+- LinkedIn: Thais Farias Cardoso (https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/thaisfariascardoso/)
+- E-mail: thaisfariascardoso@gmail.com
 
 ---
 
